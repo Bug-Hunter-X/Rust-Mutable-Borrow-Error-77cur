@@ -1,0 +1,1 @@
+This repository contains a simple example of a common error in Rust programming: attempting to have multiple mutable borrows of the same data. The `bug.rs` file demonstrates the error, while `bugSolution.rs` shows a corrected version.
